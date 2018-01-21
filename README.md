@@ -34,10 +34,23 @@ These are things to do after a month or two.
 
 # Vitamins and Suppliment
 | Name        | Frequency           | Link  | Notes |
-| ------------- |:-------------:| -----:| -----:|
+| ------------- |:-------------:|:-----:|:-----|
 | Scivation Xtend BCAA Powder, Branched Chain Amino Acids, BCAAs, Watermelon, 90 Servings     | At least with one of my gallons of water | http://a.co/6oo9Ljw | ![alt text](https://images-na.ssl-images-amazon.com/images/I/71yJvAU4uUL._SX522_.jpg "Scivation") |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Optimum Nutrition Gold Standard 100% Casein Protein Powder | Before Bed | Link: http://a.co/aFkSSlS | ![alt text](https://images-na.ssl-images-amazon.com/images/I/81K3ugYcWOL._SX522_.jpg "Optimum") |
+| NOW Foods L-Glutamine Pure Powder | I mix it with the BCCA | http://a.co/9kUs56K | ![Glutamine](https://images-na.ssl-images-amazon.com/images/I/51cG%2BTUJ%2B8L.jpg "Glutamine") |
+| NOW Foods Vitamin B-1 (Thiamine) 100mg | 3x a day | http://a.co/evnQM1j } | ![B-1](https://images-na.ssl-images-amazon.com/images/I/71Vhj1A85tL._SX522_.jpg "B-1 Vitamin") |
+| Pure Encapsulations - Magnesium (Glycinate) | | | |
+| NOW Pycnogenol 30mg | | | |
+| NOW L-Arginine 1000 mg | | | |
+| NOW Foods, Calcium & Magnesium + D | | | |
+| NOW Foods - Astaxanthin 4 mg | | | |
+| NOW Flush-Free Niacin 500 mg | | | |
+| NOW Astaxanthin 4 mg | | | |
+| Glucosamine Chondroitin, MSM & Turmeric Dietary Supplement | | | |
+| ALLMAX ISOFLEX Whey Protein Isolate | | | |
+| NOW Zinc Gluconate 50mg | | | |
+| Now Foods Potassium Citrate 99 mg | | | |
+| NOW Foods Acetyl L-Carnitine 500mg  | | | |
 
 # Resources
 [Jocko Willink - Discipline Equals Freedom](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947)
