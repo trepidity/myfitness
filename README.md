@@ -39,6 +39,7 @@ These are things to do after a month or two.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+https://images-na.ssl-images-amazon.com/images/I/71yJvAU4uUL._SX522_.jpg
 
 # Resources
 [Jocko Willink - Discipline Equals Freedom](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947)
