@@ -35,7 +35,7 @@ These are things to do after a month or two.
 # Vitamins and Suppliment
 | Name        | Frequency           | Link  | Notes |
 | ------------- |:-------------:| -----:| -----:|
-| Scivation Xtend BCAA Powder, Branched Chain Amino Acids, BCAAs, Watermelon, 90 Servings     | At least with one of my gallons of water | http://a.co/6oo9Ljw | (https://images-na.ssl-images-amazon.com/images/I/71yJvAU4uUL._SX522_.jpg) |
+| Scivation Xtend BCAA Powder, Branched Chain Amino Acids, BCAAs, Watermelon, 90 Servings     | At least with one of my gallons of water | http://a.co/6oo9Ljw | ![alt text](https://images-na.ssl-images-amazon.com/images/I/71yJvAU4uUL._SX522_.jpg "Scivation") |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
