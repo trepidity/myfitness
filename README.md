@@ -1,6 +1,8 @@
 # myfitness
 A collection of fitness information. Some is what i do daily, some is what I recommend, some is what I have tried.
 
+v1
+
 I am not a professional dietitian!!
 
 # Overview
